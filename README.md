@@ -5,7 +5,7 @@
 
 Below list with all functions names is presented:
 
-<bold>[satistic feature - function_name(atributes):]</bold>
+<bold>[satistic feature - function_name(atributes):]</bold></br>
 1.Mean - def Mean(xi,ni):</br>
 2.Standard Deviation - def StandardDeviation(xi,ni):</br>
 3.Variance - def Variance(xi,ni):</br>
