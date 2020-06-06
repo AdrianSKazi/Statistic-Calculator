@@ -1,12 +1,11 @@
 <h1>Statistic-Calculator</h1>
 <h2>Descriptive statistic calculator in Python</h2<
 
-Calculator is composed of self made functions and module math only. I didn' use such modules as Pandas, Numpy or SciPy.
+<p>Calculator is composed of self made functions and module math only. I didn' use such modules as Pandas, Numpy or SciPy.</p>
 
 Below list with all functions names is presented:
 
-<bold>satistic feature - function_name(atributes):</bold>
-
+<bold>[satistic feature - function_name(atributes):]</bold>
 1.Mean - def Mean(xi,ni):</br>
 2.Standard Deviation - def StandardDeviation(xi,ni):</br>
 3.Variance - def Variance(xi,ni):</br>
