@@ -1,5 +1,5 @@
 <h1>Statistic-Calculator</h1>
-<h2>Descriptive statistic calculator in Python</h2<
+<h2>Descriptive statistic calculator in Python</h2>
 
 <p>Calculator is composed of self made functions and module math only. I didn' use such modules as Pandas, Numpy or SciPy.</p>
 
